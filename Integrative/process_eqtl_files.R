@@ -1,3 +1,6 @@
+# Running a hippocampal cis-eQTL analysis with tensorQTL
+# Daniel Munro
+# August 2023
 
 library(tidyverse)
 
