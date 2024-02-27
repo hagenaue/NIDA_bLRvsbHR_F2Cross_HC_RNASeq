@@ -1,3 +1,7 @@
+# Examining the co-localization of hippocampal cis-eQTLs with behavioral QTLs
+# SMR: Summary-Data Based Mendelian Randomization
+# Daniel Munro
+# Sept 2023
 
 library(tidyverse)
 
