@@ -1,3 +1,6 @@
+# Preparing data for cis-eQTL analysis
+# Daniel Munro
+# August 2023
 
 from gtfparse import read_gtf
 import numpy as np
