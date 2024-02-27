@@ -1,5 +1,8 @@
-# 
-Load F0 genotypes, cluster and label 2 groups, infer group names from correlation to DE FC.
+# Assigning direction of effect of cis-eQTLs based on the bLR vs. bHR distribution of alleles
+# Daniel Munro
+# August 2023
+
+# Load F0 genotypes, cluster and label 2 groups, infer group names from correlation to DE FC.
 # Then save bLR and bHR allele frequencies to use for orienting eQTL effects.
 
 library(tidyverse)
