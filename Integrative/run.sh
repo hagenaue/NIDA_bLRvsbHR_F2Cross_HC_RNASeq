@@ -1,3 +1,7 @@
+# Preparing the genotype data for the hippocampal cis-eQTL analysis
+# Daniel Munro
+# August 2023
+
 ######################################
 ## Prepare genotypes and covariates ##
 ######################################
