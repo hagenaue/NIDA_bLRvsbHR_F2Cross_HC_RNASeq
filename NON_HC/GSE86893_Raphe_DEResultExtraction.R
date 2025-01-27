@@ -3,7 +3,6 @@
 #Megan Hagenauer 
 #12-02-2024
 
-#Amygdala
 #Differential expression results downloaded from Gemma on 12-09-24
 #For convenience, I converted the file to a .csv and removed the extra header information
 
